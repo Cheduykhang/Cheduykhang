@@ -1,7 +1,7 @@
 ### Hi my name is Khang 👋
 
-- 🌱 I’m currently studying at the University of Information Technology (UIT) - VNUHCM
-- ⚡ Fun fact: I like coding and singing
+- 🌱 I’m recent graduate at the University of Information Technology (UIT) - VNUHCM and have experience at frontend developer.
+- ⚡ Fun fact: I like coding, math and singing
 
 <!--## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/duykhang027/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/duykhang.27/) -->
