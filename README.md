@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m recent graduate at the University of Information Technology (UIT) - VNUHCM and have experience at frontend developer.<br>Fun fact: I like coding, math and singing
+I’m recent graduate at the University of Information Technology (UIT) - VNUHCM and have experience at FullStack AI Engineer.<br>Fun fact: I like coding, math and singing
 
 
 ## 🌐 Socials:
